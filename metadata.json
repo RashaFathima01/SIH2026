@@ -1,0 +1,6 @@
+{
+  "name": "SightSeer AI",
+  "description": "Offline-first, explainable mobile AI screening and clinical triage system for early Diabetic Retinopathy (DR) detection in rural Primary Health Centers (PHCs).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
